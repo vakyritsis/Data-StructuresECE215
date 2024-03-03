@@ -1,8 +1,8 @@
-#Data Structures Projects
+# Data Structures Projects
 
 Welcome to the repository for my Data Structures class projects! This repository contains implementations of various data structures and algorithms covered throughout the course.
 
-##Class Information
+## Class Information
 This repository is a collection of projects completed as part of the ECE215 Data Structures course at University of Thessaly.
 This course provides students with an introduction to fundamental data structures and main sorting and searching techniques. Covered topics include:
 
@@ -15,7 +15,7 @@ This course provides students with an introduction to fundamental data structure
 - Introduction to hashing and unordered dictionaries, such as hashing with chaining, open addressing, rehashing, and extendible hashing.
 - Skip lists, Splay trees, Treaps, Priority queues (Binary, Fibonacci).
 
-##Projects
+## Projects
 Each of the project contains the source code for each exercise of the homework and tests to validate our results. Test were provided by the instructor of the class.
 
 1. Double linked list, FIFO queue, STACK and binary search tree.
